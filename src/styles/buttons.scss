@@ -12,4 +12,9 @@
         color: variables.$colorText;
         background-color: variables.$colorButton;
     }
+
+    @media (max-width: 640px) {
+        display: block;
+        width: 100%;
+    }
 }
