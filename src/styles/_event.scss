@@ -8,19 +8,19 @@
     }
 
     &--gradient2 {
-        background-image: linear-gradient(variables.$colorGradient1,variables.$colorGradient2,);
+        background-image: linear-gradient(variables.$colorGradient2,variables.$colorGradient3,);
     }
 
     &--gradient3 {
-        background-image: linear-gradient(variables.$colorGradient1,variables.$colorGradient2,);
+        background-image: linear-gradient(variables.$colorGradient3,variables.$colorGradient4,);
     }
 
     &--gradient4 {
-        background-image: linear-gradient(variables.$colorGradient1,variables.$colorGradient2,);
+        background-image: linear-gradient(variables.$colorGradient4,variables.$colorGradient5,);
     }
 
     &--gradient5 {
-        background-image: linear-gradient(variables.$colorGradient1,variables.$colorGradient2,);
+        background-image: linear-gradient(variables.$colorGradient5,variables.$colorGradient6,);
     }
 
     &--image-left {
