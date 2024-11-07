@@ -11,7 +11,8 @@
     box-sizing: border-box;
     font-family: Roboto, sans-serif;
     list-style: none;
-    overflow-x: hidden;
+    max-width: 100vw;
+    // overflow-x: hidden; // Isso causou o problema do botão ficar mais fino
 }
 
 .container {
