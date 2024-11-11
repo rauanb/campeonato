@@ -24,6 +24,9 @@
     }
 
     &--image-left {
+        // A animação aos fade-left, aplicada nessas seções, estava causando scroll horizontal
+        // Adicionei nessa classe e não no geral pois estava causando erro no botão
+        overflow-x: hidden;
         .container {
             flex-direction: row-reverse;
         }
