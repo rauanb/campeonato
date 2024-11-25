@@ -6,3 +6,7 @@ Página criada para um campeonato fictício de Cubo Mágico.
 * SASS
 * Javascript
 * Parcel
+
+## Próximas melhorias
+
+* Adicionar localização
